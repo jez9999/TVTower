@@ -96,7 +96,7 @@ Type TGameRules {_exposeToLua}
 	'=== STATIONMAP ===
 	Field stationInitialIntendedReach:int = 1200000
 	Field antennaStationsRequireBroadcastPermission:Int = True
-	Field antennaStationsRequireBroadcastPermissionUntilRadius:Int = 35
+	Field antennaStationsRequireBroadcastPermissionUntilRadius:Int = 40
 
 
 	'=== DEV.xml ===
